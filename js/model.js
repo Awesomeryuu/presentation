@@ -111,7 +111,7 @@ const Model = {
 
   // ---- Skills screen ----
   skills: [
-    { group: "AI · ML · Data Science", items: [
+    { group: "Based on RL", items: [
       ["Social Strategy", 92], ["Image Crafting", 88],
       ["Impression Management", 86], ["Charismatic Presence", 98],
       ["Ambition Mapping", 82], ["Regocnition Drive", 86],
