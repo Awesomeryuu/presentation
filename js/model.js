@@ -116,19 +116,17 @@ const Model = {
       ["Impression Management", 86], ["Charismatic Presence", 98],
       ["Ambition Mapping", 82], ["Regocnition Drive", 86],
     ]},
-    { group: "Web & Full-Stack", items: [
-      ["JavaScript / TypeScript", 86], ["React · React Native · Next.js", 84],
-      ["Node.js · REST APIs", 80], ["TensorFlow.js (in-browser ML)", 84],
-      ["PHP · SQL · PostgreSQL", 74], ["UX Design · Figma · Adobe XD", 82],
+    { group: "FACTSSS", items: [
+      ["Aura maxxing", 100], ["Social Awareness", 99],
+      ["Green", 70], ["Autistic", 0],
+      ["Image Continuity", 86], ["Spotlight Navigation", 82],
     ]},
-    { group: "Cloud & Engineering", items: [
-      ["Git & GitHub", 88], ["AWS · Azure · GCP", 74],
-      ["Docker · Firebase", 76], ["Agile · PRINCE2 Agile", 80],
-      ["Tableau · Power BI", 72], ["Bash · PowerShell", 75],
+    { group: "Sx5 shit", items: [
+      ["Stalker", 20], ["PDF", 30],
+      ["Stinky", 0], ["Yandere", 50],
+      ["Boring Intj", 1], ["Love fool", 15],
     ]},
-    { group: "Spoken Languages", items: [
-      ["English · Bengali · Hindi · Urdu", 100], ["Japanese (JLPT N4)", 62], ["Mandarin", 30],
-    ]},
+    
   ],
 
   // ---- Data fetching ----
