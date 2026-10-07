@@ -21,11 +21,11 @@ const Model = {
   // ---- Featured projects (hand-written, shown above the GitHub feed) ----
   featured: [
     {
-      title: "BSL Fingerspelling: “Hands”",
-      tag: "Live App", color: "#3dff6e", live: true,
-      url: "https://bslgame.co.uk/", cta: "Play at bslgame.co.uk →",
+      title: "So3 Narajo's desc”",
+      tag: "Video", color: "#3dff6e", live: true,
+      url: "https://vt.tiktok.com/ZSbqYtmTb/", cta: "Watch on Tiktok →",
       img: "assets/projects/bsl.png",
-      desc: "A game that teaches you the BSL alphabet using nothing but your webcam. Built with React, Node.js, TensorFlow.js and MediaPipe hand tracking. This was my final year project and it scored an A+ at 87/100.",
+      desc: "Claudio Naranjo defined the Social Three (SO3) subtype which he named “Prestige”as an Enneagram Three whose core vanity and fixation on image are channeled through the social instinct to gain status, recognition, and group validation",
     },
     {
       title: "Steam Review Sentiment with Transformers",
