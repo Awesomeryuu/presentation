@@ -5,7 +5,7 @@
 
 const Model = {
 
-  githubUser: "Omicron69",
+  githubUser: "Awesomeryuu",
 
   // Where the contact form delivers (via formsubmit.co relay)
   contactEmail: "mez.rahman777@gmail.com",
