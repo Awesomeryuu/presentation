@@ -19,9 +19,9 @@ const Model = {
   },
 
   // ---- Featured projects (hand-written, shown above the GitHub feed) ----
-  featured: [
+  Featured: [
     {
-      title: "So3 Narajo's desc”",
+      title: "So3 Narajo's desc",
       tag: "Video", color: "#3dff6e", live: true,
       url: "https://vt.tiktok.com/ZSbqYtmTb/", cta: "Watch on Tiktok →",
       img: "assets/projects/bsl.png",
