@@ -1,4 +1,4 @@
-# Persona-Style Portfolio — Meraj Rahman
+# Persona-Style — Awesome Ryu
 
 A Persona 5 menu-inspired portfolio, structured as Model–View–Controller.
 
