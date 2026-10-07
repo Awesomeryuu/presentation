@@ -36,11 +36,11 @@ const Model = {
       desc: "The Social Three (SO3) has been nicknamed “Prestige,” a term used by Enneagram teacher Beatrice Chestnut in The Complete Enneagram, building on psychiatrist Claudio Naranjo’s early work with instincts. “Prestige” reflects this subtype’s focus on image, recognition, and social visibility as measures of success",
     },
     {
-      title: "DownloadGuard",
-      tag: "Security", color: "#FFFFFF",
-      url: "https://github.com/Omicron69/DownloadGuard", cta: "View on GitHub →",
+      title: "My song yo",
+      tag: "Song", color: "#FFFFFF",
+      url: "https://vt.tiktok.com/ZSbqBCKER/", cta: "Watch on Tiktok →",
       img: "assets/projects/downloadguard.png",
-      desc: "A Chrome extension that protects everyday users in real time. It watches for malicious downloads, phishing emails, deceptive links and QR code scams, all layered into one Manifest V3 extension.",
+      desc: "Success for my buddies, success for my friends. Success is the only thing I understand Head back home to the place I grew up. Give my medals to the ones that I love.",
     },
     {
       title: "Medical Image Classification",
