@@ -49,6 +49,20 @@ const Model = {
       img: "assets/projects/medcnn.png",
       desc: "Classifying organs in CT scans, from a baseline dense net to five custom CNNs to fine-tuned ResNet50 and EfficientNetB0, reaching 79% test accuracy on 25,000+ OrganSMNIST images.",
     },
+    {
+      title: "Medical Image Classification",
+      tag: "Deep Learning", color: "#3178c6",
+      url: "https://github.com/Omicron69/organsmnist-cnn-classification", cta: "View on GitHub →",
+      img: "assets/projects/medcnn.png",
+      desc: "Classifying organs in CT scans, from a baseline dense net to five custom CNNs to fine-tuned ResNet50 and EfficientNetB0, reaching 79% test accuracy on 25,000+ OrganSMNIST images.",
+    },
+    {
+      title: "Medical Image Classification",
+      tag: "Deep Learning", color: "#3178c6",
+      url: "https://github.com/Omicron69/organsmnist-cnn-classification", cta: "View on GitHub →",
+      img: "assets/projects/medcnn.png",
+      desc: "Classifying organs in CT scans, from a baseline dense net to five custom CNNs to fine-tuned ResNet50 and EfficientNetB0, reaching 79% test accuracy on 25,000+ OrganSMNIST images.",
+    },
   ],
 
   // Repos already shown in "featured" get hidden from the GitHub feed
