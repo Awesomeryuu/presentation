@@ -19,7 +19,7 @@ const Model = {
   },
 
   // ---- Featured projects (hand-written, shown above the GitHub feed) ----
-  Featured: [
+  featured: [
     {
       title: "So3 Narajo's desc",
       tag: "Video", color: "#3dff6e", live: true,
