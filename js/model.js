@@ -112,9 +112,9 @@ const Model = {
   // ---- Skills screen ----
   skills: [
     { group: "AI · ML · Data Science", items: [
-      ["Python · pandas · NumPy", 92], ["TensorFlow / Keras · PyTorch", 88],
-      ["scikit-learn · XGBoost", 86], ["CNNs & Transfer Learning", 85],
-      ["NLP & Transformers", 82], ["Computer Vision · MediaPipe", 86],
+      ["Social Strategy", 92], ["Image Crafting", 88],
+      ["Impression Management", 86], ["Charismatic Presence", 98],
+      ["Ambition Mapping", 82], ["Regocnition Drive", 86],
     ]},
     { group: "Web & Full-Stack", items: [
       ["JavaScript / TypeScript", 86], ["React · React Native · Next.js", 84],
