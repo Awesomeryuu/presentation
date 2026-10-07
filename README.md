@@ -1,6 +1,6 @@
 # Persona-Style — Awesome Ryu
 
-A Persona 5 menu-inspired portfolio, structured as Model–View–Controller.
+A Persona 5 menu-inspired presentation, structured as Model–View–Controller.
 
 ## Structure
 
