@@ -28,12 +28,12 @@ const Model = {
       desc: "Claudio Naranjo defined the Social Three (SO3) subtype which he named “Prestige”as an Enneagram Three whose core vanity and fixation on image are channeled through the social instinct to gain status, recognition, and group validation",
     },
     {
-      title: "Steam Review Sentiment with Transformers",
-      tag: "NLP", color: "#e60012",
-      url: "https://github.com/Omicron69/Granular-Sentiment-Pipeline-Class-Weighted-Transformers-for-Steam-Reviews",
-      cta: "View on GitHub →",
+      title: "The Status Seeking Three",
+      tag: "Article", color: "#e60012",
+      url: "https://www.enneagramentrepreneur.com/blog/enneagram-social-3",
+      cta: "View on Entreprenuer →",
       img: "assets/projects/steam.png",
-      desc: "Fine-tuned DistilBERT, BERTweet and RoBERTa to sort Steam reviews into a custom six-class sentiment taxonomy, with class weighting to handle the imbalance. RoBERTa came out on top at 88.2% F1.",
+      desc: "The Social Three (SO3) has been nicknamed “Prestige,” a term used by Enneagram teacher Beatrice Chestnut in The Complete Enneagram, building on psychiatrist Claudio Naranjo’s early work with instincts. “Prestige” reflects this subtype’s focus on image, recognition, and social visibility as measures of success",
     },
     {
       title: "DownloadGuard",
